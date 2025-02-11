@@ -15,6 +15,9 @@ console.log(zz)//Its show Nan Not a Number value because its hold number and str
 /* "33"= 33 print 
 33= 33
 "33abn"=Nan
-true=1
+true= 1
+false=0
+"empaty space"=false
+"String(Name )"=true
 
 */
