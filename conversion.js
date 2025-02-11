@@ -27,6 +27,6 @@ console.log(1+"2")//its show value in string formate
 console.log("1" +2)//its show value in string formate
 //But If u used 3 argument in console log then its work on the basis of the forst argument charecter like... if 2 number and then stirng then firs add first 2 value then merge string viseversa first is string then its all value work as a string given below the examples.
 console.log(2+1+"2")// Its show 32 
-console.log("2"+1+3)
+console.log("2"+1+3)//its show 213
 
 
